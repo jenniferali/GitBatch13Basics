@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="GitBatch13" />
+        <module name="GitBatch13Basics" />
       </profile>
     </annotationProcessing>
   </component>
